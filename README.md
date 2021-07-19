@@ -1,6 +1,7 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=reaksiyon)
 ![](https://komarev.com/ghpvc/?username=reaksiyon&color=yellow&style=flat-square)
 ### Welcome! 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=reaksiyon)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 Currently working on "Aero Tales Online: The World".
 - 👯 I'm looking for investors.
