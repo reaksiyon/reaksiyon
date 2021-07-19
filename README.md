@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hoşgeldin, ben Emir. 👋
 
 - 🔭 Şu anda "Aero Tales Online: The World" oyunu üzerinde çalışıyorum.
 - 👯 Yatırımcılarla işbirliğine açığım.
