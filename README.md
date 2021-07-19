@@ -4,10 +4,10 @@
 - 👯 Yatırımcılarla işbirliğine açığım.
 - 🤔 Reklam ve duyurma hakkında yardım arıyorum ...
 - 💬 Bana C, C++, C#, Java ve Unity hakkında her şeyi sorabilirsiniz.
-- 📫 Bana ulaşmak için: Discord -> reaksiyon1337#6038
+- 📫 Bana ulaşmak için: [Mail] -> *emirnazik.4@gmail.com* [Discord] -> *reaksiyon1337#6038*
 - 💜 Hobilerim: Yazılım, Araştırma, Oyun Geliştirme, Oyun Oynama, Yüzme  
 
-👔 [linkedin]
+👔 [linkedin](https://www.google.com)
 
 <!--
 
