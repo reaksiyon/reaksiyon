@@ -1,17 +1,23 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=reaksiyon)
+
 ![](https://komarev.com/ghpvc/?username=reaksiyon&color=yellow&style=flat-square)
 ### Welcome! 👋
 
 
-- 🔭 Currently working on "Aero Tales Online: The World".
+- 🔭 Currently working on "Aero Tales Online: The World".                                   
 - 👯 I'm looking for investors.
 - 🤔 Looking for help about advertising and announcing ...
 - 💬 You can ask me about C, C++, C#, Java and Unity.
 - 📫 Contact: [Mail] -> *emirnazik.4@gmail.com* [Discord] -> *reaksiyon1337#6038*
-- 💜 Hobbies: Coding, Searching&Learning, Developing, Gaming, Swimming  
+- 💜 Hobbies: Coding, Searching&Learning, Developing, Gaming, Swimming                                  
 
-👔 [linkedin](https://www.linkedin.com/in/emir-nazik-b0b69b150/)
+- 🎓 Skills: **C // C++ // C# // Java // Unity**
 
+- 👔 Social: [linkedin](https://www.linkedin.com/in/emir-nazik-b0b69b150/)
+
+⚒️ My GitHub Stats:
+
+![Stats](https://github-readme-stats.vercel.app/api?username=reaksiyon)
 <!--
 
 -->
