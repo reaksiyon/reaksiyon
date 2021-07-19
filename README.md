@@ -8,7 +8,7 @@
 - 👯 I'm looking for investors.
 - 🤔 Looking for help about advertising and announcing ...
 - 💬 You can ask me about C, C++, C#, Java and Unity.
-- 📫 Contact: [Mail] -> *emirnazik.4@gmail.com* [Discord] -> *reaksiyon1337#6038*
+- 📫 Contact: *emirnazik.4@gmail.com*
 - 💜 Hobbies: Coding, Searching&Learning, Developing, Gaming, Swimming                                  
 
 - 🎓 Skills: **C // C++ // C# // Java // Unity**
