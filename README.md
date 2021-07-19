@@ -1,16 +1,21 @@
 ### Hi there 👋
 
+- 🔭 Şu anda "Aero Tales Online: The World" oyunu üzerinde çalışıyorum.
+- 👯 Yatırımcılarla işbirliğine açığım.
+- 🤔 Reklam ve duyurma hakkında yardım arıyorum ...
+- 💬 Bana C, C++, C#, Java ve Unity hakkında her şeyi sorabilirsiniz.
+- 📫 Bana ulaşmak için: Discord -> reaksiyon1337#6038
+- 💜 Hobilerim: Yazılım, Araştırma, Oyun Geliştirme, Oyun Oynama, Yüzme  
+
+👔 [linkedin]
+
 <!--
-**reaksiyon/reaksiyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
+
+[youtube]: https://www.youtube.com/pckolia/
+[linkedin]: https://www.linkedin.com/in/emir-nazik-b0b69b150/
+
+
 -->
