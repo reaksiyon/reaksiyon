@@ -1,21 +1,15 @@
-### Hoşgeldin, ben Emir. 👋
+### Welcome! 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow&style=flat-square)
 
-- 🔭 Şu anda "Aero Tales Online: The World" oyunu üzerinde çalışıyorum.
-- 👯 Yatırımcılarla işbirliğine açığım.
-- 🤔 Reklam ve duyurma hakkında yardım arıyorum ...
-- 💬 Bana C, C++, C#, Java ve Unity hakkında her şeyi sorabilirsiniz.
-- 📫 Bana ulaşmak için: [Mail] -> *emirnazik.4@gmail.com* [Discord] -> *reaksiyon1337#6038*
-- 💜 Hobilerim: Yazılım, Araştırma, Oyun Geliştirme, Oyun Oynama, Yüzme  
+- 🔭 Currently working on "Aero Tales Online: The World".
+- 👯 I'm looking for investors.
+- 🤔 Looking for help about advertising and announcing ...
+- 💬 You can ask me about C, C++, C#, Java and Unity.
+- 📫 Contact: [Mail] -> *emirnazik.4@gmail.com* [Discord] -> *reaksiyon1337#6038*
+- 💜 Hobbies: Coding, Searching&Learning, Developing, Gaming, Swimming  
 
-👔 [linkedin](https://www.google.com)
+👔 [linkedin](https://www.linkedin.com/in/emir-nazik-b0b69b150/)
 
 <!--
-
-- 🌱 I’m currently learning ...
- 
-
-[youtube]: https://www.youtube.com/pckolia/
-[linkedin]: https://www.linkedin.com/in/emir-nazik-b0b69b150/
-
 
 -->
