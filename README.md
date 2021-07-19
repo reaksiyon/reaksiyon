@@ -1,5 +1,5 @@
-### Welcome! 👋
 ![](https://komarev.com/ghpvc/?username=reaksiyon&color=yellow&style=flat-square)
+### Welcome! 👋
 
 - 🔭 Currently working on "Aero Tales Online: The World".
 - 👯 I'm looking for investors.
