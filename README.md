@@ -6,7 +6,7 @@
 
 - 🔭 Currently working on HoloNext.                                   
 - 👯 I'm looking for investors.
-- 🤔 Looking for help about advertising and announcing ...
+- 🤔 Looking for help about advertising.
 - 💬 You can ask me about C, C++, C#, Java and Unity.
 - 📫 Contact: *emirnazik.4@gmail.com*
 - 💜 Hobbies: Coding, Searching&Learning, Developing, Gaming, Swimming                                  
