@@ -4,8 +4,8 @@
 ### Welcome! 👋
 
 
-- 🔭 Currently working on HoloNext.                                   
-- 👯 I'm looking for investors.
+- 🔭 Currently working at HoloNext.                                   
+- 👯 I am looking for investors.
 - 🤔 Looking for help about advertising.
 - 💬 You can ask me about C, C++, C#, Java and Unity.
 - 📫 Contact: *emirnazik.4@gmail.com*
