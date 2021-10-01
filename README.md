@@ -4,8 +4,8 @@
 ### Welcome! 👋
 
 
-- 🔭 Currently working on "Aero Tales Online: The World".                                   
-- 👯 I'm looking for jobs & investors.
+- 🔭 Currently working on HoloNext.                                   
+- 👯 I'm looking for investors.
 - 🤔 Looking for help about advertising and announcing ...
 - 💬 You can ask me about C, C++, C#, Java and Unity.
 - 📫 Contact: *emirnazik.4@gmail.com*
