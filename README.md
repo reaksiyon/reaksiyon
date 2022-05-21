@@ -5,7 +5,7 @@
 
 
 - 🔭 Currently working at HoloNext.                                   
-- 👯 I am looking for investors.
+- 👯 I am looking for publisher.
 - 🤔 Looking for help about advertising.
 - 💬 You can ask me about C, C++, C#, Java and Unity.
 - 📫 Contact: *emirnazik.4@gmail.com*
