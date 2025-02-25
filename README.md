@@ -7,9 +7,6 @@
 - 🔭 Anisage Games Co-Founder.                                
 - 👔 Social: [linkedin](https://www.linkedin.com/in/emir-nazik-b0b69b150/)
 
-⚒️ My GitHub Stats:
-
-![Stats](https://github-readme-stats.vercel.app/api?username=reaksiyon)
 <!--
 
 -->
